@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BorsaSimulasyonu", "BorsaSimulasyonu\BorsaSimulasyonu.csproj", "{856C337F-3F39-4F1F-95A0-17B9017BED67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{856C337F-3F39-4F1F-95A0-17B9017BED67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{856C337F-3F39-4F1F-95A0-17B9017BED67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{856C337F-3F39-4F1F-95A0-17B9017BED67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{856C337F-3F39-4F1F-95A0-17B9017BED67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91CF78B6-842F-41E8-ADF5-354806FFA292}
+	EndGlobalSection
+EndGlobal
